@@ -1,6 +1,8 @@
 # hoteles
 
-A new Flutter project.
+Interfaz gráfica aplicación Hoteles
+
+![alt text](https://github.com/RicharC293/hoteles_ui_ux/blob/main/123584214_144977607340171_5135167575612544323_n.jpg)
 
 ## Getting Started
 
